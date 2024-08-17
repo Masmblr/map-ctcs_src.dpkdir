@@ -115,5 +115,5 @@ textures/ctcs_custom_src/ctcs_03_n.webp \
 textures/ctcs_custom_src/ctcs_03_s.webp \
 textures/ctcs_custom_src/ctcs_fan_d.webp \
 textures/ctcs_custom_src/ctcs_fan_n.webp \
-textures/ctcs_custom_src/ctcs_fan_s.webp \
+textures/ctcs_custom_src/ctcs_fan_s.webp
 
