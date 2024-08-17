@@ -18,7 +18,6 @@ CTCS (Cosmic Tactical Combat Simulator) is a game level by Matthias "Masmblr" Pe
 [<img src="readme_meta/preview_levelshots/8.webp" width="250"/>](readme_meta/preview_levelshots/8.webp)
 [<img src="readme_meta/preview_levelshots/9.webp" width="250"/>](readme_meta/preview_levelshots/9.webp)
 [<img src="readme_meta/preview_levelshots/10.webp" width="250"/>](readme_meta/preview_levelshots/10.webp)
-[<img src="readme_meta/preview_levelshots/11.webp" width="250"/>](readme_meta/preview_levelshots/11.webp)
 
 ## History:
 | Version: | Date:        | Status: |    
