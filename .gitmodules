@@ -1,0 +1,6 @@
+[submodule "dependencies/tex-ex_src"]
+	path = dependencies/tex-ex_src
+	url = https://github.com/UnvanquishedAssets/tex-ex_src.dpkdir.git
+[submodule "dependencies/shared_space_src"]
+	path = dependencies/shared_space_src
+	url = https://github.com/UnvanquishedAssets/tex-space_src.dpkdir.git
