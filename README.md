@@ -80,7 +80,6 @@ LICENSE \
 README.md \
 VERSION \
 about/ctcs.txt \
-gfx/ctcs/colorgrading.webp * ([Unvanquished Development](https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
 maps/ctcs.map \
 meta/ctcs/ctcs.arena \
 meta/ctcs/ctcs.webp \
@@ -99,10 +98,6 @@ readme_meta/preview_levelshots/8.webp \
 readme_meta/preview_levelshots/9.webp \
 scripts/ctcs_custom.shader \
 scripts/shaderlist.txt \
-scripts/shared_ex.shader * ([Unvanquished Development](https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
-scripts/shared_space.shader * ([Unvanquished Development](https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
-sounds/ctcs/fan.opus * ([newlocknew](https://freesound.org/people/newlocknew), Attribution 4.0) \
-sounds/ctcs/pump.opus * ([newlocknew](https://freesound.org/people/newlocknew), Attribution 4.0) \
 textures/ctcs_custom_src/credits.webp \
 textures/ctcs_custom_src/credits_add.webp \
 textures/ctcs_custom_src/ctcs_03.webp \
@@ -117,3 +112,10 @@ textures/ctcs_custom_src/ctcs_fan_d.webp \
 textures/ctcs_custom_src/ctcs_fan_n.webp \
 textures/ctcs_custom_src/ctcs_fan_s.webp
 
+Remaining licensees:
+
+gfx/ctcs/colorgrading.webp * ([Unvanquished Development](https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
+scripts/shared_ex.shader * ([Unvanquished Development](https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
+scripts/shared_space.shader * ([Unvanquished Development](https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
+sounds/ctcs/fan.opus * ([newlocknew](https://freesound.org/people/newlocknew), Attribution 4.0) \
+sounds/ctcs/pump.opus * ([newlocknew](https://freesound.org/people/newlocknew), Attribution 4.0)
