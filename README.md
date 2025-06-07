@@ -1,5 +1,5 @@
 # CTCS - Game Level For Unvanquished
-![header](readme_meta/header/header.webp) 
+![header](readme_meta/header/header.jpg) 
 
 ## Overview: Sci-Fi military base in the Sahara
 CTCS (Cosmic Tactical Combat Simulator) is a game level by Matthias "Masmblr" Peters for the open source game [_Unvanquished_](https://Unvanquished.net/).
@@ -8,16 +8,16 @@ CTCS (Cosmic Tactical Combat Simulator) is a game level by Matthias "Masmblr" Pe
    CTCS is based on [_UTCSUD_](https://github.com/Masmblr/map-utcsud_src/), which was released for [_Tremulous_](https://github.com/darklegion/tremulous/).
 
 ## Screenshots:
-[<img src="readme_meta/preview_levelshots/1.webp" width="250"/>](readme_meta/preview_levelshots/1.webp)
-[<img src="readme_meta/preview_levelshots/2.webp" width="250"/>](readme_meta/preview_levelshots/2.webp)
-[<img src="readme_meta/preview_levelshots/3.webp" width="250"/>](readme_meta/preview_levelshots/3.webp)
-[<img src="readme_meta/preview_levelshots/4.webp" width="250"/>](readme_meta/preview_levelshots/4.webp)
-[<img src="readme_meta/preview_levelshots/5.webp" width="250"/>](readme_meta/preview_levelshots/5.webp)
-[<img src="readme_meta/preview_levelshots/6.webp" width="250"/>](readme_meta/preview_levelshots/6.webp)
-[<img src="readme_meta/preview_levelshots/7.webp" width="250"/>](readme_meta/preview_levelshots/7.webp)
-[<img src="readme_meta/preview_levelshots/8.webp" width="250"/>](readme_meta/preview_levelshots/8.webp)
-[<img src="readme_meta/preview_levelshots/9.webp" width="250"/>](readme_meta/preview_levelshots/9.webp)
-[<img src="readme_meta/preview_levelshots/10.webp" width="250"/>](readme_meta/preview_levelshots/10.webp)
+[<img src="readme_meta/preview_levelshots/1.jpg" width="250"/>](readme_meta/preview_levelshots/1.jpg)
+[<img src="readme_meta/preview_levelshots/2.jpg" width="250"/>](readme_meta/preview_levelshots/2.jpg)
+[<img src="readme_meta/preview_levelshots/3.jpg" width="250"/>](readme_meta/preview_levelshots/3.jpg)
+[<img src="readme_meta/preview_levelshots/4.jpg" width="250"/>](readme_meta/preview_levelshots/4.jpg)
+[<img src="readme_meta/preview_levelshots/5.jpg" width="250"/>](readme_meta/preview_levelshots/5.jpg)
+[<img src="readme_meta/preview_levelshots/6.jpg" width="250"/>](readme_meta/preview_levelshots/6.jpg)
+[<img src="readme_meta/preview_levelshots/7.jpg" width="250"/>](readme_meta/preview_levelshots/7.jpg)
+[<img src="readme_meta/preview_levelshots/8.jpg" width="250"/>](readme_meta/preview_levelshots/8.jpg)
+[<img src="readme_meta/preview_levelshots/9.jpg" width="250"/>](readme_meta/preview_levelshots/9.jpg)
+[<img src="readme_meta/preview_levelshots/10.jpg" width="250"/>](readme_meta/preview_levelshots/10.jpg)
 
 ## History:
 | Version: | Date:        | Status: |    
@@ -82,39 +82,39 @@ VERSION \
 about/ctcs.txt \
 maps/ctcs.map \
 meta/ctcs/ctcs.arena \
-meta/ctcs/ctcs.webp \
-models/ctcs/barrel/barrel_red_radio_n.webp \
-models/ctcs/barrel/barrel_red_radio_s.webp \
-readme_meta/header/header.webp \
-readme_meta/preview_levelshots/1.webp \
-readme_meta/preview_levelshots/10.webp \
-readme_meta/preview_levelshots/2.webp \
-readme_meta/preview_levelshots/3.webp \
-readme_meta/preview_levelshots/4.webp \
-readme_meta/preview_levelshots/5.webp \
-readme_meta/preview_levelshots/6.webp \
-readme_meta/preview_levelshots/7.webp \
-readme_meta/preview_levelshots/8.webp \
-readme_meta/preview_levelshots/9.webp \
+meta/ctcs/ctcs.jpg \
+models/ctcs/barrel/barrel_red_radio_n.jpg \
+models/ctcs/barrel/barrel_red_radio_s.jpg \
+readme_meta/header/header.jpg \
+readme_meta/preview_levelshots/1.jpg \
+readme_meta/preview_levelshots/10.jpg \
+readme_meta/preview_levelshots/2.jpg \
+readme_meta/preview_levelshots/3.jpg \
+readme_meta/preview_levelshots/4.jpg \
+readme_meta/preview_levelshots/5.jpg \
+readme_meta/preview_levelshots/6.jpg \
+readme_meta/preview_levelshots/7.jpg \
+readme_meta/preview_levelshots/8.jpg \
+readme_meta/preview_levelshots/9.jpg \
 scripts/ctcs_custom.shader \
 scripts/shaderlist.txt \
-textures/ctcs_custom_src/credits.webp \
-textures/ctcs_custom_src/credits_add.webp \
-textures/ctcs_custom_src/ctcs_03.webp \
-textures/ctcs_custom_src/ctcs_03b.webp \
-textures/ctcs_custom_src/ctcs_03r.webp \
-textures/ctcs_custom_src/ctcs_03_blend.webp \
-textures/ctcs_custom_src/ctcs_03_blend_blue.webp \
-textures/ctcs_custom_src/ctcs_03_blend_red.webp \
-textures/ctcs_custom_src/ctcs_03_n.webp \
-textures/ctcs_custom_src/ctcs_03_s.webp \
-textures/ctcs_custom_src/ctcs_fan_d.webp \
-textures/ctcs_custom_src/ctcs_fan_n.webp \
-textures/ctcs_custom_src/ctcs_fan_s.webp
+textures/ctcs_custom_src/credits.jpg \
+textures/ctcs_custom_src/credits_add.jpg \
+textures/ctcs_custom_src/ctcs_03.jpg \
+textures/ctcs_custom_src/ctcs_03b.jpg \
+textures/ctcs_custom_src/ctcs_03r.jpg \
+textures/ctcs_custom_src/ctcs_03_blend.jpg \
+textures/ctcs_custom_src/ctcs_03_blend_blue.jpg \
+textures/ctcs_custom_src/ctcs_03_blend_red.jpg \
+textures/ctcs_custom_src/ctcs_03_n.jpg \
+textures/ctcs_custom_src/ctcs_03_s.jpg \
+textures/ctcs_custom_src/ctcs_fan_d.jpg \
+textures/ctcs_custom_src/ctcs_fan_n.jpg \
+textures/ctcs_custom_src/ctcs_fan_s.jpg
 
 Remaining licensees:
 
-gfx/ctcs/colorgrading.webp * ([Unvanquished Development](https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
+gfx/ctcs/colorgrading.jpg * ([Unvanquished Development](https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
 scripts/shared_ex.shader * ([Unvanquished Development](https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
 scripts/shared_space.shader * ([Unvanquished Development](https://www.unvanquished.net), GNU GPLv3, CC BY-SA 2.5) \
 sounds/ctcs/fan.opus * ([newlocknew](https://freesound.org/people/newlocknew), Attribution 4.0) \
