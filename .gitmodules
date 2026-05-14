@@ -1,1 +1,10 @@
 
+[submodule "src/map-ctcs_src.dpkdir/deps/tex-common_src"]
+	path = src/map-ctcs_src.dpkdir/deps/tex-common_src
+	url = https://github.com/UnvanquishedAssets/tex-common_src.dpkdir
+[submodule "src/map-ctcs_src.dpkdir/deps/tex-ex_src"]
+	path = src/map-ctcs_src.dpkdir/deps/tex-ex_src
+	url = https://github.com/UnvanquishedAssets/tex-ex_src.dpkdir
+[submodule "src/map-ctcs_src.dpkdir/deps/tex-space_src"]
+	path = src/map-ctcs_src.dpkdir/deps/tex-space_src
+	url = https://github.com/UnvanquishedAssets/tex-space_src.dpkdir
