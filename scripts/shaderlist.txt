@@ -1,3 +1,0 @@
-shared_ex
-shared_space
-ctcs_custom
