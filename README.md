@@ -146,8 +146,9 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 </details>
 
-[!TIP]
-Note: You can also manually copy the contents of the deps/ subfolders into src/ or symlink them if you prefer to manage dependencies yourself.
+> [!TIP]
+> Note: You can also manually copy the contents of the dependencies/ subfolders 
+> into src/map-ctcs_src.dpkdir/ or symlink them if you prefer to manage dependencies yourself.
 
 ### 3. Install & Testing
 
