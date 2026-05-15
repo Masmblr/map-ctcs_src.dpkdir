@@ -117,7 +117,7 @@ To build or modify this map, you need to clone the source along with its depende
 
 ### 1. Clone with dependencies
 ```
-git clone --recurse-submodules https://github.com/Masmblr/map-ctcs_src.dpkdir.git
+git clone --recurse-submodules https://github.com/Masmblr/map-ctcs_src.git
 cd map-ctcs_src.dpkdir
 ```
 
