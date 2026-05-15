@@ -54108,7 +54108,7 @@ shared_ex/base1f
 {
 "classname" "misc_model"
 "origin" "1306.999878 -1138.000000 0.000000"
-"model" "models/ctcs/barrel/barrel_red_radio.md3"
+"model" "models/ctcs/barrel01/model.obj"
 "spawnflags" "4"
 "angle" "-57.935898"
 }
@@ -54179,7 +54179,7 @@ shared_ex/base1f
 {
 "classname" "misc_model"
 "origin" "-364.894257 -369.692566 -128.000000"
-"model" "models/ctcs/barrel/barrel_red_radio.md3"
+"model" "models/ctcs/barrel01/model.obj"
 "spawnflags" "4"
 "angle" "-37.953197"
 }
@@ -54273,7 +54273,7 @@ shared_ex/base1f
 {
 "classname" "misc_model"
 "origin" "1343.000000 -1140.500000 0.000000"
-"model" "models/ctcs/barrel/barrel_red_radio.md3"
+"model" "models/ctcs/barrel01/model.obj"
 "spawnflags" "4"
 "angle" "-167.152939"
 }
@@ -54281,7 +54281,7 @@ shared_ex/base1f
 {
 "classname" "misc_model"
 "origin" "56.000122 -1382.000000 165.000000"
-"model" "models/ctcs/barrel/barrel_red_radio.md3"
+"model" "models/ctcs/barrel01/model.obj"
 "spawnflags" "4"
 "angle" "122.064072"
 }
@@ -54289,7 +54289,7 @@ shared_ex/base1f
 {
 "classname" "misc_model"
 "origin" "-574.999878 -141.999985 0.000004"
-"model" "models/ctcs/barrel/barrel_red_radio.md3"
+"model" "models/ctcs/barrel01/model.obj"
 "spawnflags" "4"
 "angle" "122.064072"
 }
@@ -54387,7 +54387,7 @@ shared_ex/base1f
 {
 "classname" "misc_model"
 "origin" "-640.999878 314.999969 0.000000"
-"model" "models/ctcs/barrel/barrel_red_radio.md3"
+"model" "models/ctcs/barrel01/model.obj"
 "spawnflags" "4"
 "angle" "-28.101517"
 }
@@ -54395,7 +54395,7 @@ shared_ex/base1f
 {
 "classname" "misc_model"
 "origin" "-349.000000 -285.000000 -128.000000"
-"model" "models/ctcs/barrel/barrel_red_radio.md3"
+"model" "models/ctcs/barrel01/model.obj"
 "spawnflags" "4"
 }
 // entity 54
@@ -54460,7 +54460,7 @@ shared_ex/base1f
 {
 "classname" "misc_model"
 "origin" "1016.894043 -876.307617 -128.000000"
-"model" "models/ctcs/barrel/barrel_red_radio.md3"
+"model" "models/ctcs/barrel01/model.obj"
 "spawnflags" "4"
 "angle" "-37.953197"
 }
@@ -54468,7 +54468,7 @@ shared_ex/base1f
 {
 "classname" "misc_model"
 "origin" "978.000000 -874.000000 -128.000000"
-"model" "models/ctcs/barrel/barrel_red_radio.md3"
+"model" "models/ctcs/barrel01/model.obj"
 "spawnflags" "4"
 }
 // entity 59

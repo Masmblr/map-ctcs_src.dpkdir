@@ -80,15 +80,15 @@ textures/ctcs_custom_src/ctcs_clight_white
 	}
 }
 
-models/ctcs/barrel/barrel_red_radio
+models/ctcs/barrel01/diffuse
 {
-	qer_editorimage models/ctcs/barrel/barrel_red_radio
+	qer_editorimage textures/shared_ex_src/base1e_d
 	surfaceparm trans
 	surfaceparm detail
 	{
-		diffuseMap models/ctcs/barrel/barrel_red_radio
-		normalMap models/ctcs/barrel/barrel_red_radio_n
-		specularMap models/ctcs/barrel/barrel_red_radio_s
+		diffuseMap textures/shared_ex_src/base1e_d
+		normalMap models/ctcs/barrel01/normal
+		specularMap models/ctcs/barrel01/specular
 	}
 }
 

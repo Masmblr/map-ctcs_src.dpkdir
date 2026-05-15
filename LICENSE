@@ -1,0 +1,108 @@
+CTCS Legal Information File
+https://github.com/Masmblr
+===================================
+
+MATERIAL
+========
+
+This is a complete list of all files included in this project, along with their respective authors and license information.
+Derivative files are marked with (modified by …) and retain the original license unless otherwise noted.
+
+
+Material by Matthias Peters (Masmblr) © 2026
+License: Creative Commons BY-NC-SA 4.0 (see docs/licenses/CC-NC-SA_4.0.txt)
+----
+.gitattributes
+.gitignore
+.gitmodules
+LICENSE
+docs/images/1.1/1.webp
+docs/images/1.1/10.webp
+docs/images/1.1/2.webp
+docs/images/1.1/3.webp
+docs/images/1.1/4.webp
+docs/images/1.1/5.webp
+docs/images/1.1/6.webp
+docs/images/1.1/7.webp
+docs/images/1.1/8.webp
+docs/images/1.1/9.webp
+docs/images/1.2/1.jpg
+docs/images/1.2/2.jpg
+docs/images/1.2/3.jpg
+docs/images/1.2/4.jpg
+docs/images/1.2/5.jpg
+docs/images/1.2/6.jpg
+docs/images/1.2/7.jpg
+docs/images/1.2/8.jpg
+docs/images/1.2/9.jpg
+docs/images/1.2/header.webp
+src/map-ctcs_src.dpkdir/DEPS
+src/map-ctcs_src.dpkdir/VERSION
+src/map-ctcs_src.dpkdir/about/ctcs.txt
+src/map-ctcs_src.dpkdir/maps/ctcs.map
+src/map-ctcs_src.dpkdir/meta/ctcs/ctcs.arena
+src/map-ctcs_src.dpkdir/meta/ctcs/ctcs.webp
+src/map-ctcs_src.dpkdir/scripts/ctcs_custom.shader
+src/map-ctcs_src.dpkdir/scripts/shaderlist.txt
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/billboard_backlight.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/billboard_lines.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_03.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_03b.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_03r.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_03_blend.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_03_blend_blue.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_03_blend_red.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_03_h.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_03_n.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_03_s.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_fan_d.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_fan_n.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/ctcs_fan_s.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/floor_grate3_n.webp
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/floor_grate3_s.webp
+
+
+Material by Matthias Peters (Masmblr) & Yves 'evillair' Allaire
+License: Creative Commons Attribution-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+Note: Based on texture-material of eX Textures. (https://www.evillair.net/v4/gametextures/)
+----
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/floor_grate3_alpha.tga
+
+
+Material by Matthias Peters (Masmblr) & Unvanquished Development
+License: Creative Commons BY-SA 2.5 (Inherited due to Share Alike, see docs/licenses/CC-BY-SA-2.5.txt)
+Note: Contains the Unvanquished logo.
+----
+src/map-ctcs_src.dpkdir/textures/ctcs_custom_src/billboard.webp
+
+
+Material by Unvanquished Development
+License: Creative Commons BY-SA 2.5 (see docs/licenses/CC-BY-SA_2.5.txt)
+----
+src/map-ctcs_src.dpkdir/gfx/ctcs/colorgrading.webp (modified by Masmblr)
+
+
+Material by newlocknew
+License: Attribution 4.0 (see docs/licenses/Attribution-4.0-International.txt)
+----
+src/map-ctcs_src.dpkdir/sounds/ctcs/fan_big.opus (modified by Masmblr)
+src/map-ctcs_src.dpkdir/sounds/ctcs/electric_sparks.opus (modified by Masmblr)
+src/map-ctcs_src.dpkdir/sounds/ctcs/computer_sounds.opus (modified by Masmblr)
+src/map-ctcs_src.dpkdir/sounds/ctcs/machine_sound_low.opus (modified by Masmblr)
+src/map-ctcs_src.dpkdir/sounds/ctcs/machine_steam.opus (modified by Masmblr)
+src/map-ctcs_src.dpkdir/sounds/ctcs/pipe_steam.opus (modified by Masmblr)
+
+
+Material by KorgMS2000B
+License: Creative Commons 0 (see docs/licenses/CreativeCommons_CC0_1.0.txt)
+----
+src/map-ctcs_src.dpkdir/sounds/ctcs/machine_steam.opus (modified by Masmblr)
+
+
+Material by Calinou
+License: Creative Commons 0 (see docs/licenses/CC0-1.0.txt)
+----
+src/map-ctcs_src.dpkdir/models/ctcs/barrel01/model.obj
+src/map-ctcs_src.dpkdir/models/ctcs/barrel01/normal.webp (modified by Masmblr)
+src/map-ctcs_src.dpkdir/models/ctcs/barrel01/height.webp (modified by Masmblr)
+src/map-ctcs_src.dpkdir/models/ctcs/barrel01/specular.webp (modified by Masmblr)
